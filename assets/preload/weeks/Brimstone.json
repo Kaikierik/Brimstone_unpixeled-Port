@@ -1,0 +1,40 @@
+{
+	"storyName": "Null",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Brimstone",
+			"brimstone",
+			[
+				60,
+				60,
+				175
+			]
+		],
+		[
+			"Brimstone(no-note-change)",
+			"brimstone",
+			[
+				60,
+				60,
+				175
+			]
+		]
+	],
+	"weekName": "Null"
+}
